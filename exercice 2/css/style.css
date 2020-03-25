@@ -1,0 +1,29 @@
+.buttonEx2 {
+    background-color: rgb(61, 110, 110);
+    color: rgb(255, 255, 255);
+}
+
+.divEx2_1 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(88, 88, 158);
+    color: white;
+}
+
+.divEx2_2 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(117, 17, 17);
+    color: white;
+}
+
+.divEx2_3 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(26, 95, 26);
+    color: white;
+}
+
+.main {
+    background-color: rgb(150, 150, 33);
+}
